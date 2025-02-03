@@ -27,21 +27,19 @@ A command-line implementation of the popular word-guessing game Wordle, written 
 2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/wordle-clone-java.git
-  Navigate to project directory:
+3. Navigate to project directory:
     ```bash
       Copy
     cd wordle-clone-java
-    ```
 
 🚀 Running the Game
 
 Compile and run from command line:
 ```bash
-Copy
-
 javac WordleGame.java
 java WordleGame
 ```
+
 🔧 Customization
 
 Easily modify game parameters by editing:
@@ -49,15 +47,6 @@ Easily modify game parameters by editing:
     CORRECT_WORD: Change the target word
 
     MAX_ATTEMPTS: Adjust number of allowed guesses
-
-📊 Example Game
-Copy
-
-Guess the 5-letter word. You have 6 attempts!
-Attempt 1: TRAIN
-- G - Y -
-Attempt 2: CRANE
-Congratulations! You guessed the word!
 
 🤝 Contributing
 
