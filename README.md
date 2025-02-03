@@ -26,10 +26,11 @@ A command-line implementation of the popular word-guessing game Wordle, written 
 1. Ensure Java JDK 11+ is installed
 2. Clone the repository:
    ```bash
+   
    git clone https://github.com/your-username/wordle-clone-java.git
 3. Navigate to project directory:
     ```bash
-      Copy
+    
     cd wordle-clone-java
 
 🚀 Running the Game
